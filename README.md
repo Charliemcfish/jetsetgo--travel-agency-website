@@ -16,10 +16,6 @@ Welcome to the repository for JetSetGo, a cutting-edge travel agency website des
 ## Live Demo
 
 [Click here for the Live Demo of JetSetGo](https://jetsetgouk.netlify.app/)
-### Prerequisites
-
-- A modern web browser
-- Basic knowledge of HTML, CSS, and JavaScript
 
 ### Installation
 
